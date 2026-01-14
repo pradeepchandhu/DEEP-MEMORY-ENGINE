@@ -1,0 +1,13 @@
+# Block videos
+*.mp4
+*.mkv
+*.avi
+
+# Python
+__pycache__/
+venv/
+.env
+
+# OS
+Thumbs.db
+.DS_Store
